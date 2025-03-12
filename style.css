@@ -1,0 +1,12 @@
+.hangman-box {
+    display: flex;
+    margin: 2px;
+}
+
+.letterBoxes {
+    border-bottom: 5px solid black;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+
+}
